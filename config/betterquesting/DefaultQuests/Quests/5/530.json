@@ -5,7 +5,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "解锁注魔之后，你可以制作一些功能强大的元素工具了。\n制作它门只需要少量要素和一块稀土，非常划算，接下来介绍它们的功能。\n\n炽心镐：自带炽心1，勘探2的附魔，挖掘原矿有25%的概率掉落原矿簇，shift+右键可消耗10点耐久来显示周围矿物的位置。此外，炽心镐会点燃被打到的生物。\n\n风雷剑：自带弧光2的附魔，攻击敌人会触发连锁闪电特性，弹射的电弧会波及次要目标。此外，使用风雷剑右键可以产生一道旋风，吹开附近的敌人并让玩家缓慢的漂浮起来。\n\n奔流斧：自带收集和连锁采集附魔，砍树时首先从距离目标方块最远的方块开始破坏，直到把整棵树砍掉，同时加速树叶的凋零，快速得到树苗。被破坏的方块会缓慢的飘向玩家。此外，使用奔流斧右键可以吸引周围的掉落物到玩家身边。\n\n后土铲：自带破坏附魔，挖掘可以破坏3x3的方块土和沙子之类的方块；右键可以复制3x3个目标方块（需要有有目标方块），大多数方块都可以。按下G键会调整方块放置方向。\n\n句芒锄：可以一次开垦3×3的田地，手持句芒锄右键作物或其他植物，可以使植物加速成长。\n\n所有元素工具都极为实用，推荐有能力时立即制作。",
+      "desc:8": "After unlocking Note Magic, you can craft some powerful elemental tools. \nCrafting it only requires a small amount of elements and a piece of rare earth, very cost-effective, next introduce their functions. \n\nBlazing Pickaxe: Comes with the Blazing 1, Exploration 2 enchantment, 25% chance of dropping clusters of raw minerals when digging raw minerals, shift+right-click consumes 10 durability points to show the location of minerals around you. Additionally, the Blazing Heart pickaxe will ignite creatures that are hit. \n\n Wind and Thunder Sword: Comes with the Arc 2 enchantment, attacking an enemy will trigger the Chain Lightning trait, and the projectile arcs will ripple through secondary targets. Additionally, right clicking with the Wind and Thunder Sword creates a whirlwind that blows away nearby enemies and slowly floats the player. \n\n Running Axe: Comes with Gathering and Chain Gathering enchantments, when chopping down a tree, first start destroying it from the farthest square from the target square until the whole tree is chopped down, and at the same time speeds up the withering of the leaves to get the sapling quickly. The destroyed squares will slowly float towards the player. Additionally, right clicking with the Penumbra Axe will attract surrounding drops to the player. \n\n Post Earth Shovel: comes with the Destruction enchantment, digging can destroy 3x3 squares of earth and sand and such; right clicking can duplicate 3x3 target squares (need to have have target squares) for most squares. Pressing G will adjust the direction of square placement. \n\nSentence Mango Hoe: You can cultivate a 3x3 field at once; right-clicking on a crop or other plant while holding the Sentence Mango Hoe will make the plant grow faster. \n\\nAll elemental tools are extremely useful and are recommended to be made as soon as you are able to.",
       "frame:8": "ROUNDED_SQUARE",
       "globalshare:1": 0,
       "icon:10": {
@@ -26,7 +26,7 @@
       "ismain:1": 0,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "元素工具",
+      "name:8": "Elemental Tools",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,

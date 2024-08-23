@@ -5,7 +5,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 1,
-      "desc:8": "看样子...这座塔每层楼都有一扇门。\n只有在低一层的房间内才能找到上一层的房间钥匙，加油吧！\n使用凶险剑刃开启最后一扇门，进行开眼仪式，准备好一场大战！",
+      "desc:8": "By the looks of it... There's a door on each floor of this tower. \n The only way to find the key to the room on the previous floor is in the room on the lower floor. Go for it! \n Use the menacing sword blade to open the last door, perform the eye-opening ceremony, and get ready for a big battle!",
       "frame:8": "GATE",
       "globalshare:1": 0,
       "icon:10": {
@@ -18,7 +18,7 @@
       "ismain:1": 1,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "好几扇门...",
+      "name:8": "Several doors...",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,

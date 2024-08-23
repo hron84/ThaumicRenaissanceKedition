@@ -5,7 +5,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "类似于一个无限耐久的钻石鞋子，但附带4%魔力减免，还有一些特殊的功能：\n\n给予常驻的急迫2效果。\n将你踩过的土壤变成草地。\n旅行者之靴的全部效果，且跳得更高，跑得更快，无视摔落伤害。",
+      "desc:8": "Similar to a diamond shoe with infinite durability, but comes with 4% magic reduction and some special features:\n\nGives a resident rush 2 effect. \n Turns the soil you step on into grass. \nThe full effect of Traveler's Boots and jumps higher, runs faster, and ignores fall damage.",
       "frame:8": "ROUNDED_SQUARE",
       "globalshare:1": 0,
       "icon:10": {
@@ -18,7 +18,7 @@
       "ismain:1": 0,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "明目之盾",
+      "name:8": "shield of bright eyes",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,

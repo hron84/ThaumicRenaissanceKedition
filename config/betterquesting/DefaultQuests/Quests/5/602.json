@@ -5,7 +5,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "印记拓印器是一种方便玩家设置印章属性的印记，使用该印记右键一个已经配置好的印记，可以将其的配置储存在其中。\n\n当玩家使用拓印器右键一个相同的印记时，会将该印记储存的信息填入其中，可以避免再次手动配置。",
+      "desc:8": "The Seal Topper is an imprint that makes it easy for players to set the attributes of their seals, and using it to right-click on an already-configured imprint will store its configuration in it. \n\nWhen a player right clicks on an identical seal using the Seal Topper, the information stored for that seal will be filled in, allowing them to avoid having to manually configure it again.",
       "frame:8": "ROUNDED_SQUARE",
       "globalshare:1": 0,
       "icon:10": {

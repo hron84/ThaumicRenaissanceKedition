@@ -5,7 +5,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "将笔与墨放在木桌上（不需要两个连着，只需要一个），来制作研究台，研究台是玩家获取理论（金色框的那些研究）的主要方式。\n\n使用方法：\n\n初次使用需要笔与墨将材料放在界面的左上角，还需要若干纸，放在界面右上角然后点界面中间的“创造理论”开始研究。\n\n开始后，点左侧的“？”开始抽卡（每抽一次会耗费一张纸），会随机产生两张卡片（有额外抽卡机会则会产生三张），点击卡片即可选择该卡片。\n\n在卡片上侧的灯是选择这张卡会减少的灵感，灯前面有加号的卡片会增加灵感。\n\n卡片下侧是需要的物品，需要放置在背包（§c§l或相邻容器§r¹）中才能选择，带有感叹号的物品会在你选择卡片时消耗，每次完成确认时会消耗笔与墨的耐久。\n\n当你消耗完全部灵感后点击完成理论即可获得理论研究进度，除了最高进度的学科，其他学科获得的理论研究进度会损失部分，可以通过某些卡片提升全额奖励的学科数量。\n\n初始灵感数量会随着你解锁“※”形研究解锁数量的提升而提升。\n\n（使用方法来自https://www.mcmod.cn/item/77166.html）\n\n§l1：使用了ThaumTweaks",
+      "desc:8": "Put the pen and ink on the wooden table (you don't need two in a row, just one) to create a research table, the research table is the main way for players to get theories (those research in the gold box). \\How to use it: \\n\\\\nThe first time you use it, you need a pen and ink, put the materials in the upper left corner of the interface, you also need some paper, put it in the upper right corner of the interface, and then tap \"Create Theory\" in the center of the interface to start researching. \\After you start, tap the \"?\" button on the left side of the screen. Start drawing cards (each draw costs one paper), two cards will be randomly generated (three cards will be generated if there is an extra chance to draw cards), tap on the card to select the card. \\n\\nThe light on the top side of the card is the amount of inspiration that will be reduced by choosing that card, and cards with a plus sign in front of the light will increase inspiration. \\n\\nThe lower side of the card is the required item, which needs to be placed in the backpack (§c§l or adjacent container §r¹) to be selected, items with exclamation marks will be consumed when you select the card, and each time you complete a confirmation it will consume the durability of the pen and ink. \\n\\\\nWhen you have consumed all of your Inspiration click on Complete Theory to gain Theory Research Progress, you will lose some of the Theory Research Progress gained in all but the highest progressing disciplines, and you can boost the number of disciplines that are fully rewarded with certain cards. \\n\\nThe initial number of inspirations will increase as you unlock the number of \"※\" shaped research unlocks. \\n\\n (Usage from https://www.mcmod.cn/item/77166.html) \\n\\n§l1: ThaumTweaks used!",
       "frame:8": "GATE",
       "globalshare:1": 0,
       "icon:10": {
@@ -18,7 +18,7 @@
       "ismain:1": 1,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "抽抽卡",
+      "name:8": "抽抽抽卡",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,

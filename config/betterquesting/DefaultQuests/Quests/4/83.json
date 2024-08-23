@@ -5,7 +5,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "咒波净化器可消耗世界盐以灵气咒波比1：1.5快速清除灵气场中的咒波，造价较为昂贵，但是可以高效清除咒波。但是其对灵气的消耗过于巨大，以至于如果灵气场中的灵气不够多，可能会造成灵气为0但咒波有剩余的情况！这种情况可能导致裂隙提前出现！\n\n想要制作这个物品，需要解锁位于镜像学的研究“咒波净化器”。",
+      "desc:8": "The Spellwave Purifier consumes World Salt to quickly remove spellwaves from the aura field at an aura to spellwave ratio of 1:1.5. It is expensive to build, but can remove spellwaves efficiently. However, its consumption of aura is too great, so much so that if there is not enough aura in the aura field, it may result in a situation where the aura is 0 but there are spell waves remaining! This situation may cause the rift to appear earlier! \\In order to create this item, you need to unlock the \"Spell Wave Purifier\", which is located in Mirrorology.",
       "frame:8": "ROUNDED_SQUARE",
       "globalshare:1": 0,
       "icon:10": {
@@ -18,7 +18,7 @@
       "ismain:1": 0,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "高效咒波清理 - 咒波净化器",
+      "name:8": "Efficient Spellwave Cleaning - Spellwave Purifier",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,

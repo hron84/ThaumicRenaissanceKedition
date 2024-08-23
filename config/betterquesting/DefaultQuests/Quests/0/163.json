@@ -5,7 +5,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "充能基座，可以右键将使用vis充能的物品放入基座，然后自动从所在区块的灵气场中抽取vis来补充能量。当佩戴揭示之护目镜时，鼠标悬浮于其上可以查看物品内部的充能数。\n唯一的缺点是不支持奥术工作台充能器。",
+      "desc:8": "Charge pedestals, which allow you to right-click to place an item that is charged with vis into a pedestal, which then automatically draws vis from the aura field of the block it is in to replenish the energy. When wearing the Goggles of Reveal, hovering the mouse over them allows you to view the number of charges inside the item. The only drawback to \n is that it does not support Arcane Workbench Chargers.",
       "frame:8": "ROUNDED_SQUARE",
       "globalshare:1": 0,
       "icon:10": {
@@ -18,7 +18,7 @@
       "ismain:1": 0,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "充能",
+      "name:8": "energize",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,

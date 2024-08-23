@@ -5,7 +5,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "找到任意一个水晶碎片后，把它扔出去，再捡回来，你会提示被扎到手指，然后睡一觉，跟随异梦的指引，制作出魔导手册！",
+      "desc:8": "After finding any of the crystal shards, throw it out and pick it back up, you'll be prompted to get your fingers lodged, then sleep on it and follow the guidance of the fey dream to craft the magic guidebook!",
       "frame:8": "GATE",
       "globalshare:1": 0,
       "icon:10": {
@@ -18,7 +18,7 @@
       "ismain:1": 1,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "发展路线",
+      "name:8": "development line",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,

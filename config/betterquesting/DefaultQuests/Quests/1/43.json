@@ -5,7 +5,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "在附魔台偶尔你能附魔到“睿智”附魔，使用它击杀怪物会得到一些知识。\n\n§o§m你的剑都比你有脑子。",
+      "desc:8": "Occasionally you can enchant the \"Wisdom\" enchantment at the enchantment table, which gives you some knowledge for killing monsters. \\n\\n§o§m Your sword has more brains than you do.",
       "frame:8": "ROUNDED_SQUARE",
       "globalshare:1": 0,
       "icon:10": {
@@ -26,7 +26,7 @@
       "ismain:1": 0,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "大聪明",
+      "name:8": "smarter",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,

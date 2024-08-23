@@ -5,7 +5,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "你的坩埚，冶炼厂等生产设备中，每点自然挥发的源质都会使咒波增加相应的数值（腐化要素更为严重），咒波存在于灵气场中会使灵气场灵气恢复速度减慢，降低灵气恢复效率。\n\n当咒波高于灵气场灵气的75%时，咒波裂隙就会出现，它会吞噬掉它接触到的方块（比如箱子，熔炉，ME驱动器等等），摧毁掉落物，所以，不要让它出现！\n\n使用坩埚时要注意使用石英碎片析出多余的源质，每个石英碎片可以析出两点源质，这可以人为的控制咒波的排放。\n\n当然，也有一些方式能降低灵气场中的咒波，这点我们后面会讲到。",
+      "desc:8": "Each point of naturally volatile source matter in your crucible, smelter, and other production equipment increases the spellwave by the corresponding value (more so for corrupted elements), and the presence of the spellwave in the aura field slows down the recovery of the aura field's aura and reduces the efficiency of the aura's recovery. \n\nWhen the spell wave is higher than 75% of the aura field's aura, the spell wave rift will appear, and it will devour the cubes it touches (e.g. chests, furnaces, ME drives, etc.), destroying the drops, so don't let it appear! \n\nWhen using the Crucible, be careful to precipitate excess source matter using Quartz Shards, each of which can precipitate two points of source matter, which can artificially control the emission of spellwaves. \n\nOf course, there are ways to reduce spell waves in the aura field, which we'll get to later.",
       "frame:8": "ROUNDED_SQUARE",
       "globalshare:1": 0,
       "icon:10": {
@@ -18,7 +18,7 @@
       "ismain:1": 0,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "咒波的产生",
+      "name:8": "Generation of Mantra Waves",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,

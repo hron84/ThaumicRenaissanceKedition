@@ -5,7 +5,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "按照MC开局的传统，你需要下矿收集资源，在这里，你需要收集红石，金，铁和铜，如果找到了钻石，也可以去暮色逛一逛，也许会更好寻找资源。",
+      "desc:8": "In the tradition of MC openings, you need to go down to the mines to collect resources, in this case, you need to collect Redstone, Gold, Iron and Copper, and if you find Diamonds, you can also take a stroll to Twilight, which might be a better place to look for resources.",
       "frame:8": "GATE",
       "globalshare:1": 0,
       "icon:10": {
@@ -18,7 +18,7 @@
       "ismain:1": 1,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "首要任务",
+      "name:8": "most important task",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,

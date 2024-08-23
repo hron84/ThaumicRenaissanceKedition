@@ -5,7 +5,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "云霄指环是奥术注魔的产物\n它能使持有者身轻如燕，大幅度减免其所受的摔落伤害，并赋予其二段跳能力。\n由于它的解锁和制作最简单，所以推荐解锁注魔后第一个制作此物品",
+      "desc:8": "The Cloud Ring is a product of Arcane Infusion \\n it makes the bearer as light as a swallow, drastically reduces the damage it takes from a fall, and grants it the ability to make a two-step jump. \\Since it is the easiest item to unlock and craft, it is recommended to be the first one to craft this item after unlocking Enchantment.",
       "frame:8": "ROUNDED_SQUARE",
       "globalshare:1": 0,
       "icon:10": {
@@ -18,7 +18,7 @@
       "ismain:1": 0,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "飞身一跃",
+      "name:8": "leap",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,

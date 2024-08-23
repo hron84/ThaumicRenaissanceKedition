@@ -5,7 +5,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "污秽泪水可以去除你5点任意扭曲，清除顺序为临时-\u003e普通-\u003e永久。\n也就是说，只有当你的临时扭曲被完全清除后，才能清理普通扭曲，永久扭曲同理。\n不过...它只会在你总扭曲值高于50点时生效。",
+      "desc:8": "Tainted Tears removes 5 points of your arbitrary distortion, with the order of removal being Temporary -> Normal -> Permanent. \n That is to say, only when your temporary distortions are completely removed can you clear your normal distortions, same for permanent distortions. \nBut... It will only take effect when your total distortion value is above 50 points.",
       "frame:8": "ROUNDED_SQUARE",
       "globalshare:1": 0,
       "icon:10": {
@@ -18,7 +18,7 @@
       "ismain:1": 0,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "污秽泪水",
+      "name:8": "dirty tear",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,

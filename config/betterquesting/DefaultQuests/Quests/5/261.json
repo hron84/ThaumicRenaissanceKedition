@@ -5,7 +5,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "奥术浴场是一个简便的小机器\n\n它能自动混合水与净化浴盐(形成净化之水），并将它们泵至机器上方。泵出的液体可填满机器上方5x5的范围。\n\n除此之外也可以泵出其他任意液体。可以通过自动化机器装入液体或用合适的液体右键机器加入。通入红石信号可以关闭它。",
+      "desc:8": "The Arcane Bath is an easy little machine\n\nwhich automatically mixes water with purifying bath salts (to form Water of Purification) and pumps them above the machine. The pumped liquid fills a 5x5 area above the machine. \n\nAny other liquids can also be pumped. This can be done by automating the machine to fill it with liquids or by right clicking the machine with the right liquid to add it. Passing in a redstone signal will turn it off.",
       "frame:8": "ROUNDED_SQUARE",
       "globalshare:1": 0,
       "icon:10": {
@@ -18,7 +18,7 @@
       "ismain:1": 0,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "泡个澡",
+      "name:8": "Take a bath.",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,

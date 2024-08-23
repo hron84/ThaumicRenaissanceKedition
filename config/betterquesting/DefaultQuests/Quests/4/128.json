@@ -5,7 +5,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "净化浴盐的另一种用法，如果你安装了植物魔法模组，那么你可以用净化浴盐制作一瓶装有“理智”的药水。\n饮用它可以给予你10min的扭曲守护，可以引用4或6次，具体次数根据你装药水的瓶子来决定。\n\n制作这个东西无需解锁任何研究。",
+      "desc:8": "Another use for purifying bath salts is that if you have the Plant Magic module installed, you can make a potion containing \"sanity\" from purifying bath salts. \\Drinking it grants you 10min of Twisted Warding, which can be invoked 4 or 6 times, depending on the bottle you use to fill it. \\You do not need to unlock any research to make this.",
       "frame:8": "ROUNDED_SQUARE",
       "globalshare:1": 0,
       "icon:10": {
@@ -21,7 +21,7 @@
       "ismain:1": 0,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "更好的抑制扭曲发作 - 植物酿造台",
+      "name:8": "Better Suppression of Twisting Attacks - Botanical Brewing Table",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,

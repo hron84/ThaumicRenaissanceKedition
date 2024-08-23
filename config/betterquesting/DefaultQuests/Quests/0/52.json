@@ -3,7 +3,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "获取基础资源，快速开局，避免低版本前期繁琐的发展过程。",
+      "desc:8": "Get basic resources for a quick start and avoid the tedious development process in the early stages of the low version.",
       "frame:8": "ROUNDED_SQUARE",
       "globalshare:1": 0,
       "icon:10": {
@@ -16,7 +16,7 @@
       "ismain:1": 0,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "快速开局?",
+      "name:8": "Fast start?",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,

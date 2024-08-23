@@ -5,7 +5,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "畸变镐是一把颠覆常规的镐。\n越硬的物品（黑曜石），它挖的越快。反而软一点（石头）的物品它挖掘速度会非常慢，一些可以瞬间破坏的方块（例如草）甚至无法挖掘。\n至于基岩...还是别想它了。\n\n补充：制作畸变镐所需的100要素水晶碎片需要挖掘透水石获得。\n透水石由腐化岩石消退得到。",
+      "desc:8": "The Aberration Pickaxe is a pickaxe that turns the norm on its head. \n the harder the item (obsidian), the faster it digs. On the contrary, the softer (stone) items it digs will be very slow, and some squares that can be destroyed instantly (grass, for example) can't even be dug. \n As for bedrock... It's better to forget about it. \n\nAddendum: The 100 elemental crystal shards needed to craft the aberration pickaxe need to be obtained by digging up permeable stone. \nThe Permeable Stone is obtained by decaying rock abatement.",
       "frame:8": "ROUNDED_SQUARE",
       "globalshare:1": 0,
       "icon:10": {
@@ -18,7 +18,7 @@
       "ismain:1": 0,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "奇奇怪怪的工具 - 畸变镐",
+      "name:8": "Strange tools - distortion picks",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,

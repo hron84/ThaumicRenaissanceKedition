@@ -5,7 +5,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "你现在能制作元动电池了，将元动核心和神秘板在奥术工作台合成得到元动能量电池。\n再在任意可合成界面将元动能量电池与神秘或虚空法师护手合成得到一个装有元动电池的法师护手，手持它靠近裂隙，吸收裂隙的能量（元动能量）\n下一步，是要寻找维度裂隙...",
+      "desc:8": "You can now craft meta-dynamic batteries. Synthesize a meta-dynamic core and a mystic plate at the Arcane Workbench to get a meta-dynamic energy battery. \n Then synthesize the Meta-Dynamic Energy Battery with the Mystic or Void Mage Gauntlet in any synthesizable interface to get a Mage Gauntlet with a Meta-Dynamic Battery, hold it close to the rift, and absorb the rift's energy (Meta-Dynamic Energy)\n The next step is to find the Dimensional Rift...",
       "frame:8": "GATE",
       "globalshare:1": 0,
       "icon:10": {
@@ -26,7 +26,7 @@
       "ismain:1": 1,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "元动能量电池",
+      "name:8": "Elemental Energy Battery",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,

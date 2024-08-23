@@ -5,7 +5,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "扭曲的效果无论如何抑制，终究有无法长久维持的一天，这里会讲解如何根除扭曲。\n\n你需要制作驱邪肥皂，它可以使你清除你的全部临时扭曲和一部分普通扭曲。\n\n想要它清除临时扭曲，很简单，你只需要不停的搓肥皂就可以。\n但是想让它清除普通扭曲，你就要配合净化浴盐和净化之水。\n\n在有扭曲守护Buff时，使用肥皂可以让你有概率洗去0~1点普通扭曲。\n当你泡在净化之水里面时，使用驱邪肥皂可以让你有更大概率洗去1~2点普通扭曲。\n对于永久扭曲，很抱歉，这块肥皂对它们无能为力。",
+      "desc:8": "The effects of distortions, no matter how much they are suppressed, will one day not be able to be sustained for long, and how to eradicate distortions will be explained here. \n\nYou need to make Exorcism Soap, which will allow you to remove all of your temporary distortions and some of your normal distortions. \n\nWanting it to clear the temporary distortions is easy, you just need to keep rubbing the soap. \nBut to get it to clear normal distortions, you'll need to combine it with Purifying Bath Salts and Water of Purification. \n\nWhen you have the Distortion Guard Buff, using the soap will give you a chance to wash away 0~1 points of Normal Distortion. \nWhen you're soaking inside the Water of Purification, using the Exorcism Soap will give you a higher probability of washing away 1~2 points of Normal Distortion. \nFor permanent distortions, I'm sorry, but this soap can't do anything about them.",
       "frame:8": "ROUNDED_SQUARE",
       "globalshare:1": 0,
       "icon:10": {
@@ -18,7 +18,7 @@
       "ismain:1": 0,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "清除扭曲",
+      "name:8": "Remove distortions",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,

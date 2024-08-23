@@ -5,7 +5,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "准备炼狱熔炉的材料，搭建炼狱熔炉。\n炼狱熔炉,一个无需燃料的，使用及其简便的装置，只要将物品从它上方丢进去即可启动，它会将熔炼产物从它的正前方喷出，顺带还会有一些副产物！\n在炼狱熔炉的左右后下四个面的中心可以插入奥术风箱加速便提高产率合提速。\n§c警告：炼狱熔炉在工作时会产生少量咒波，需要注意！",
+      "desc:8": "Prepare the materials for the Inferno Furnace, and build the Inferno Furnace. \\Purgatory Furnace is a fuel-free, easy-to-use device that can be activated by dropping items into it from above, and it will spew out the smelting products from right in front of it, with some by-products along the way! \\nIn the centers of the left, right, back, and bottom four sides of the Purgatory Furnace, arcane bellows can be inserted to accelerate the rate of production and speed. \\n§cWarning: The Purgatory Furnace generates a small amount of spellwaves when in operation, so be careful!",
       "frame:8": "ROUNDED_SQUARE",
       "globalshare:1": 0,
       "icon:10": {
@@ -18,7 +18,7 @@
       "ismain:1": 0,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "更好的冶炼厂",
+      "name:8": "Better Smelters",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,

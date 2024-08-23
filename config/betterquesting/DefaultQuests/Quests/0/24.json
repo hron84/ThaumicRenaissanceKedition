@@ -5,7 +5,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "奥术悬浮台可以消耗灵气产生一道气流，将实体向朝向的方向推动。可以用红石信号控制其开关。\n\n首次放置时默认气流高度为8格，可以点击悬浮台底部的触发器调整悬浮距离（距离增加，魔力消耗增加）：\n\n4格（8vis/分钟）、8格（16vis/分钟）、16格（32vis/分钟）、32格（64vis/分钟）\n\n当有生物悬浮时每秒钟消耗1vis魔力。\n\n可以用来制作刷怪塔。",
+      "desc:8": "An arcane levitation table can consume aura to create a stream of air that propels the entity in the direction it is facing. You can control its on/off switch with a redstone signal. \\n\\nThe default height of the airstream when first placed is 8 frames, and the levitation distance can be adjusted by clicking on the trigger at the bottom of the levitation table (as the distance increases, the magic consumption increases): \\n\\n4 frames (8vis/minute), 8 frames (16vis/minute), 16 frames (32vis/minute), 32 frames (64vis/minute) \\n\\nWhile there are creatures levitating it consumes 1 vis of magic power per second! . \\n\\nCan be used to make a brush tower.",
       "frame:8": "ROUNDED_SQUARE",
       "globalshare:1": 0,
       "icon:10": {
@@ -18,7 +18,7 @@
       "ismain:1": 0,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "奥术悬浮台",
+      "name:8": "arcane hovering platform",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,

@@ -5,7 +5,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "使用驱邪肥皂去除普通扭曲是一件很麻烦的事情，而且驱邪肥皂和净化之水的造价十分高昂，使你批量制作它们很麻烦。\n\n这时，洁净之辉就派上用处了，洁净之辉可以稳定消除普通扭曲，但是对应的代价是，你需要将它充能，并等待一段时间，等待的时间中你的身体会不断产生咒波。\n\n充能结束后，会扣除你1~2点普通扭曲，相对而言，在后期这也是一件很值得的事情。\n\n想要制作这个物品，你需要解锁位于“奥术注魔”内的隐藏研究“洁净之辉”，它的前置研究为“元始珍珠”。",
+      "desc:8": "Using Exorcism Soap to remove Normal Twist is a pain in the ass, and Exorcism Soap and Cleansing Water are very expensive, making it a pain in the ass for you to make them in bulk. \\n\\nThis is where the Radiance of Cleansing comes in handy, the Radiance of Cleansing can steadily remove Normal Distortions, but the corresponding cost is that you need to charge it up and wait for a period of time, during which time your body will keep generating spell waves. \\n\\nAt the end of the charge, 1~2 points of Normal Distortion will be deducted from you, which is relatively speaking a worthwhile thing to do in the later stages. \\To create this item, you will need to unlock the hidden research \"Radiance of Cleansing\" located in \"Arcane Magic\", which is preceded by \"Pearl of the Beginning\".",
       "frame:8": "ROUNDED_SQUARE",
       "globalshare:1": 0,
       "icon:10": {
@@ -18,7 +18,7 @@
       "ismain:1": 0,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "更高效的清除扭曲 - 洁净之辉",
+      "name:8": "More efficient removal of distortions - Clean Glow",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,

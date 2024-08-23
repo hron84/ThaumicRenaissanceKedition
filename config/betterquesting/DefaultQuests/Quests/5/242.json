@@ -5,7 +5,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "制作悖论物质，炸毁裂隙。\n制作悖论物质首先需要你过度污染一个区块，解锁污染和裂隙的研究。\n再需要使用魔导透镜扫面野生的结晶，解锁其隐藏的研究“结晶农场”。\n再解锁以此发现的“灵气电池”研究。\n你就能在基础学找到悖论物质的研究了！\n右击扔出悖论物质，要对准裂隙，小心不要丢歪了。\n你炸毁的虚空种子将是你未来发展神秘重要的材料。",
+      "desc:8": "Crafting Paradox Matter and blowing up rifts. \\Crafting Paradox Matter first requires you to over-pollute a block to unlock the Pollution and Rift research. \\Then you need to use the Magic Lens to scan the wild crystals to unlock the hidden research \"Crystallization Farm\". \\Unlock the \"Aura Battery\" research that was discovered in this way. \\You'll be able to find the Paradox Matter research in Basic Studies! \\Right-click to throw the Paradox Matter. Aim it at the rift and be careful not to throw it the wrong way. \\The Void Seed you blow up will be a mysteriously important material for your future development.",
       "frame:8": "GATE",
       "globalshare:1": 0,
       "icon:10": {
@@ -18,7 +18,7 @@
       "ismain:1": 1,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "摧毁裂隙",
+      "name:8": "Destroying the rift",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,

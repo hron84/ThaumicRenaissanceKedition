@@ -5,7 +5,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "一把永远都不会损坏的铲子，拥有三种形态：\n\n在方块模式（绿色）下它按正常方式挖掘。\n\n在正方模式（红色）下它会在起始方块周围一次挖掘出5*5的区域。\n\n在柱型模式（蓝色）下它会呈柱形在上下各8格的范围内挖掘与起始方块同类型方块。",
+      "desc:8": "A shovel that never breaks and has three forms: \n\nIn square mode (green) it digs in the normal way. \n\nIn square mode (red) it digs a 5*5 area at a time around the starting square. \n\nIn Column Mode (blue) it digs the same type of squares as the starting square in a column shape within 8 squares above and below.",
       "frame:8": "ROUNDED_SQUARE",
       "globalshare:1": 0,
       "icon:10": {

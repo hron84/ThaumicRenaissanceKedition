@@ -5,7 +5,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "解锁注魔后，你就可以解锁这个篇章！",
+      "desc:8": "Once you unlock Note Magic, you can unlock this chapter!",
       "frame:8": "GATE",
       "globalshare:1": 0,
       "icon:10": {
@@ -18,7 +18,7 @@
       "ismain:1": 1,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "新的开始",
+      "name:8": "A New Beginning",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,

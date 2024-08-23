@@ -5,7 +5,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "记忆矩阵可以为神秘炼金塔提供监控的配方数量，每个记忆矩阵提供两个额外的记忆配方，也就意味着你不需要每次制作完物品都要清空已选择配方了。\n\n在奥术炼金塔除正面（物品排出口那个面）以外的任何面放置它来生效。\n\n虽然这个物品在现在就已经可以制作了，但是，其配方中的“发条之心”需要你你解锁傀儡学的相应研究才可制作。",
+      "desc:8": "Memory Matrices provide a monitored number of recipes for the Arcane Alchemy Tower, and each Memory Matrix provides two additional memorized recipes, meaning you don't need to clear the selected recipes every time you finish crafting an item. \\n\\nPlace it to take effect on any side of the Arcane Alchemy Tower except the front (the side where the item exits). \\Although this item can be crafted now, the \"Clockwork Heart\" recipe requires you to unlock the appropriate research in Golemology to craft it.",
       "frame:8": "ROUNDED_SQUARE",
       "globalshare:1": 0,
       "icon:10": {
@@ -18,7 +18,7 @@
       "ismain:1": 0,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "极限记忆",
+      "name:8": "eidetic memory",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,

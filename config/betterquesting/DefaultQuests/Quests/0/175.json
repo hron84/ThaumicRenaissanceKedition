@@ -6,7 +6,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "神秘法师护手有着更快的施法速度，更高的伤害，以及可以装备一些更炫酷的升级配件，升级你的法师护手，并为其装备增强配件！\n当然，在后面，你也需要这个法师护手来打开通向另一个世界的大门...\n想要制作此物品，需解锁其前置“神秘法师护手”。",
+      "desc:8": "With faster spell casting speed, higher damage, and the ability to equip some cooler upgrades, upgrade your Mage gauntlet and equip it with enhanced accessories! \\nOf course, in the back, you'll also need this mage gauntlet to open the door to another world... \\To craft this item, you need to unlock the \"Mystic Mage's Gauntlet\".",
       "frame:8": "GATE",
       "globalshare:1": 0,
       "icon:10": {
@@ -27,7 +27,7 @@
       "ismain:1": 1,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "更好的法师护手",
+      "name:8": "Better mage gauntlets",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,

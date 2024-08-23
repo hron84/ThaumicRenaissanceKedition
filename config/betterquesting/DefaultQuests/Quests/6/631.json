@@ -5,7 +5,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "元动加农炮需要在§5元动基座§r上充能，不能直接从裂隙中抽取能量。\n\n在充满能量后，将会发射强力光束炮，每帧对敌人造成1点魔法伤害，十分的恐怖，它也可以安装两种升级。\n\n轨道炮组件：安装此升级后，炮的攻击方式变为立即发射一道伤害为 30 点的能量束，射程为64格，伴随着穿透效果，伤害一条线上的敌人。使用后进入长达 5 秒的冷却时间。\n\n迸射模式组件:安装此升级后,炮的攻击方式变为快速发射 3 束伤害为 8 点的能量束（但是由于微弱的后坐力，三束能量束实际上每束都会比前一束高一小段），射程为33格，并且在攻击后需经过 1.5 s的冷却时间才可再次发射。\n\n所有组件均在工作台与加农炮无序合成以升级。",
+      "desc:8": "The Meta-Dynamic Cannon needs to be energized on the §5 Meta-Dynamic Base§r, and cannot draw energy directly from the rift. \n\nWhen fully energized, it will fire a powerful beam cannon that deals 1 point of magic damage per frame to the enemy, very scary, it can also install two upgrades. \n\n Orbital Cannon Component: After installing this upgrade, the cannon's attack changes to immediately firing a beam of energy that deals 30 points of damage with a range of 64 frames, accompanied by a penetration effect that damages enemies in a line. It enters a cooldown of up to 5 seconds after use. \n\nBurst Mode Component: With this upgrade installed, the cannon attacks by rapidly firing 3 beams of energy that do 8 points of damage (however, due to the weak recoil, each of the three beams will actually be a fraction higher than the previous one), has a range of 33 frames, and requires a cooldown time of 1.5 s before it can fire again after an attack. \n\n All components are synthesized at the Workbench with the Cannon in an unordered fashion for upgrades.",
       "frame:8": "ROUNDED_SQUARE",
       "globalshare:1": 0,
       "icon:10": {
@@ -28,7 +28,7 @@
       "ismain:1": 0,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "致命武器 -- 元动加农炮",
+      "name:8": "Lethal Weapons -- Meta-Dynamic Cannon",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,

@@ -6,7 +6,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "奥术机动装置是一个很实用的探索地图的道具，右键抛出其抓钩部分，在范围内碰到任何方块都会被吸住，但是有最大射程抓钩会直接返回。勾住后可以更换物品栏其他物品，不会影响抓钩的吸附，按下shift松开抓钩。\n\n此物品需要充能后才能使用。",
+      "desc:8": "The Arcane Maneuvering Device is a useful prop for exploring the map, right-click to throw its grappling hook portion and it will be sucked up by any square it touches within range, but with a maximum range the grappling hook will return straight back. You can replace other items in the item bar after hooking, it will not affect the grappling hook's adsorption, press shift to release the grappling hook. \n\nThis item needs to be energized before it can be used.",
       "frame:8": "ROUNDED_SQUARE",
       "globalshare:1": 0,
       "icon:10": {
@@ -19,7 +19,7 @@
       "ismain:1": 0,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "飞檐走壁",
+      "name:8": "leap onto roofs and vault over walls (usually associated with martial arts)",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,

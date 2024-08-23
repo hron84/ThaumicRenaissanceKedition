@@ -5,7 +5,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "在神秘时代模组中,物品需要解锁对应的研究才能合成.\n如果您材料凑齐但却无法合成某种物品,请尝试解锁其对应的研究.\n\nQ:研究在哪里找?\nA:魔导手册,请打开你的魔导手册查看,也可以利用魔导手册左下角的搜索界面搜索你所要寻找的研究.\n\nQ:搜不到\nA:和旧版本minecraft的成就一样,神秘时代的研究也是逐步解锁的,以及某些研究需要通过特殊的条件解锁.\n\nQ:特殊条件是什么?\nA:扫描某种物品，前往某些维度等等.\n\nQ:JEI显示物品已经可以制作,为什么还是制作失败?\nA:JEI对于炼金合成的配方存在显示漏洞,会导致您在打开但未解锁研究的时候判定为您已经解锁这项研究,所以是否可以制作某种物品请以魔导手册为准.\n\nQ:要素种子无法制作\nA:要素种子由于破坏游戏体验,此包禁止使用及制作.",
+      "desc:8": "In the Age of Mystery module, items can only be synthesized by unlocking the corresponding research. \\nIf you have all the materials but can't synthesize an item, try unlocking its corresponding research. \\n\\Q: Where can I find research? \\nA:Magic manual, please open your magic manual to check, or you can use the search interface at the bottom left corner of the manual to search for the research you are looking for. \\n\\nQ:I can't find it\\nA: Like the achievements in older versions of minecraft, the research in the Age of Mystery is unlocked gradually, and some research needs to be unlocked through special conditions. \\n\\Q: What are the special conditions? \\nA: Scanning certain items, traveling to certain dimensions, etc. \\n\\nQ:JEI shows that the item is ready to be crafted, but why does it still fail to be crafted? \\nA: There is a bug in JEI's display of alchemy synthesis recipes that causes it to say that you have already unlocked the research when you open it, so please refer to the manual to see if you can craft a certain item or not. \\n\\nQ:Elemental Seeds can't be crafted\\nA:Elemental Seeds are prohibited from being used or crafted in this pack due to the gameplay experience being ruined.",
       "frame:8": "ROUNDED_SQUARE",
       "globalshare:1": 0,
       "icon:10": {
@@ -18,7 +18,7 @@
       "ismain:1": 0,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "为什么我无法合成某种物品?",
+      "name:8": "Why can't I synthesize an item?",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,

@@ -6,7 +6,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "当你解锁完炼化学研究之后，你就可以进入炼化学大章节了。\n\n当你解锁完位于神秘学的研究“充能基座”后，你就可以制作一把骨弓了。\n\n骨弓可以消耗其内部的充能，发射出2倍于常规速度的箭，可以轻松击杀各种怪物，在附魔后甚至可以三箭带走一只外域的邪术守卫，非常恐怖，建议若有条件尽快制造一把。",
+      "desc:8": "Once you have unlocked the Chemistry research, you will be able to access the Chemistry chapter. \\n\\nAfter you have unlocked the \"Charge Base\" research in Occultism, you can craft a Bone Bow. \\The Bone Bow can consume its internal energizer to fire arrows twice as fast as the regular speed, which can easily kill all kinds of monsters, and can even take away an Outlander Evil Guard with three arrows after enchantment, which is very scary, so it is recommended to make one as soon as possible if you have the conditions.",
       "frame:8": "ROUNDED_SQUARE",
       "globalshare:1": 0,
       "icon:10": {
@@ -19,7 +19,7 @@
       "ismain:1": 0,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "机枪扫射",
+      "name:8": "machine-gun fire",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,

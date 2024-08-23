@@ -3,7 +3,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "欢迎来到神秘复兴整合包。\n这个整合包包含了TC6大多数的附属，旨在给玩家最快乐的TC6体验，这里是一些新手教程。",
+      "desc:8": "Welcome to the Mystic Revival Integration Pack. \\n This integration pack contains most of the TC6 attachments and aims to give players the happiest TC6 experience, here are some newbie tutorials.",
       "frame:8": "ROUNDED_SQUARE",
       "globalshare:1": 0,
       "icon:10": {
@@ -16,7 +16,7 @@
       "ismain:1": 0,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "整合包注意事项",
+      "name:8": "Integration Pack Notes",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,
@@ -44,8 +44,8 @@
               "Properties:10": {
                 "textures:9": {
                   "0:10": {
-                    "Signature:8": "FXK5XwEua0hlSKh4Xd5i2xGB0Mxbf+Np8rvqbVMa+0iySkZXA+Bew3UF5k0vYuKRbjlGI7WJV6iaxDcUQLR/MH76bBTCFzYbW+FibR58KlO+WwAQee4XI80mWbDTgr6nQdOwSjQuuf8PyUQEJFYPbt1V2bEuW5pA/DkJ+T6LURhf+QH1LbTVPTqcf2mh2r/WWjniWVZyfLW3rY68lYu9HtTM3u+dEfOTxET0vtvsLFgj9bzuGXuUcK6OErswlIzq7T1Pr8+lNUquGs+1oHHxqTaee9n16uLDy7Crx2uIy0Hqsnn3kvqHOZkkMi53OqPMcxrJ7fVzDsQIOid5DPP13jlUj5yxHpAIB55OmcOBgfgS1BIX2FJejf1EfF1LjC91jhIU4PJrf+Cg4weOZiY+J+tZPwn+JcBLThTB6CPicgzwRbARg85GWxej98tiGx67sV39ZBqFFXi/xLN3DYiHdX8q1Fb3nVZ338bp32FXKSz2/dQfOFq/Vov6CeSeEi83TsuK4Pwr4nTXpCkK6lBn2v/ILvS64OCTtvyJi2rDXeie3zzeWU3B3em/3o8dwgLQU5IHFoVP4W0oyuvpIUL5dSzwcsWWXlkGIInEbt5wteQI2hyHy9j3VSG5UDaqYHZjUz4gS9My1AqZ+U7stxJleajgR5qmGtim7KUm2ysWhVU\u003d",
-                    "Value:8": "ewogICJ0aW1lc3RhbXAiIDogMTcxOTMzNTc4NjgzMiwKICAicHJvZmlsZUlkIiA6ICI3MjZhNzMyNGM4NDA0ODUxYWNlMmQ0NTY1OWIyOTQxMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJrZWxldHUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDZlZTg1YTAwNzEzZDRhMjcyOGRkODQzNjcwNjk2ZjZmYTkxOTYzY2E1YTQxYWZjOGU5MmMxN2U0Yjg4ZjgzNSIKICAgIH0sCiAgICAiQ0FQRSIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2Q5ZDgyYWIxN2ZkOTIwMjJkYmQ0YTg2Y2RlNGMzODJhNzU0MGUxMTdmYWU3YjlhMjg1MzY1ODUwNWE4MDYyNSIKICAgIH0KICB9Cn0\u003d"
+                    "Signature:8": "FXK5XwEua0hlSKh4Xd5i2xGB0Mxbf+Np8rvqbVMa+0iySkZXA+Bew3UF5k0vYuKRbjlGI7WJV6iaxDcUQLR/MH76bBTCFzYbW+FibR58KlO+WwAQee4XI80mWbDTgr6nQdOwSjQuuf8PyUQEJFYPbt1V2bEuW5pA/DkJ+T6LURhf+QH1LbTVPTqcf2mh2r/WWjniWVZyfLW3rY68lYu9HtTM3u+dEfOTxET0vtvsLFgj9bzuGXuUcK6OErswlIzq7T1Pr8+lNUquGs+1oHHxqTaee9n16uLDy7Crx2uIy0Hqsnn3kvqHOZkkMi53OqPMcxrJ7fVzDsQIOid5DPP13jlUj5yxHpAIB55OmcOBgfgS1BIX2FJejf1EfF1LjC91jhIU4PJrf+Cg4weOZiY+J+tZPwn+JcBLThTB6CPicgzwRbARg85GWxej98tiGx67sV39ZBqFFXi/xLN3DYiHdX8q1Fb3nVZ338bp32FXKSz2/dQfOFq/Vov6CeSeEi83TsuK4Pwr4nTXpCkK6lBn2v/ILvS64OCTtvyJi2rDXeie3zzeWU3B3em/3o8dwgLQU5IHFoVP4W0oyuvpIUL5dSzwcsWWXlkGIInEbt5wteQI2hyHy9j3VSG5UDaqYHZjUz4gS9My1AqZ+U7stxJleajgR5qmGtim7KUm2ysWhVU=",
+                    "Value:8": "ewogICJ0aW1lc3RhbXAiIDogMTcxOTMzNTc4NjgzMiwKICAicHJvZmlsZUlkIiA6ICI3MjZhNzMyNGM4NDA0ODUxYWNlMmQ0NTY1OWIyOTQxMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJrZWxldHUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDZlZTg1YTAwNzEzZDRhMjcyOGRkODQzNjcwNjk2ZjZmYTkxOTYzY2E1YTQxYWZjOGU5MmMxN2U0Yjg4ZjgzNSIKICAgIH0sCiAgICAiQ0FQRSIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2Q5ZDgyYWIxN2ZkOTIwMjJkYmQ0YTg2Y2RlNGMzODJhNzU0MGUxMTdmYWU3YjlhMjg1MzY1ODUwNWE4MDYyNSIKICAgIH0KICB9Cn0="
                   }
                 }
               }

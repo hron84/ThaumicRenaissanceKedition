@@ -6,7 +6,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "你已经了解了咒波的概念，现在你可以来使用坩埚了！\n首先，点击闪烁的研究，解锁并查看配方。\n其次，照着魔导手册的配方制作坩埚，就是用世界盐右击原版的炼药锅。\n使用热源（火焰，岩浆（块），闪耀之光等）给坩埚加热，然后，再使用水桶向坩埚里加水，注意，你无法用桶盛出装在坩埚里的水，这说明，如果你想提前排放坩埚，只能通过Shift+右键排放掉坩埚里的水。\n其次，想要制作物品，你需要解锁对应的研究与足够的要素。\n按住shift把鼠标移向物品，可以看见该物品里含有的要素，如果没显示就证明该物品不含要素。\n然后，扔进坩埚里的含有要素的物品会被坩埚溶解，分散成其所含有的要素。\n当要素充足,且你解锁对应的研究时，将待处理物品扔进装了烧开的水里。就能直接制作出对应的物品了。\n要注意，坩埚之中的源质会随时间而分解消失，产生紫色烟雾。这正是上一章所说的咒波。每一点要素对应着一点咒波值。潜行右键则一次性清空坩埚中的要素，效果与直接挖掉坩埚或自然分解是一样的，都会产生咒波。所以需要及时用石英碎片处理含有多余要素的坩埚。",
+      "desc:8": "You've understood the concept of Spellwave, now you can come to use the Crucible! \\nFirst, click on the blinking research to unlock and view the recipe. \\nSecond, make the Crucible according to the recipe in the Magic Manual, which is the original Alchemy Pot right-clicked with World Salt. \\nHeat the crucible using a heat source (flame, magma (block), Shining Light, etc.) and then, use the bucket to add water to the crucible.Note that you can't use the bucket to hold the water that's in the crucible, which means that if you want to drain the crucible ahead of time, you can only do so by draining the water out of the crucible via Shift+Right click. \\n Secondly, to craft items, you need to unlock the corresponding research with enough elements. \\nHolding shift and moving the mouse towards the item, you can see the elements contained in the item, if it doesn't show up it proves that the item doesn't contain elements. \\nThen, items containing elements that are thrown into the crucible will be dissolved by the crucible and dispersed into the elements they contain. \\nWhen there are enough elements, and you have unlocked the corresponding research, throw the item to be processed into the water filled with boiled water. You will be able to make the corresponding item directly. \\nBe aware that the source material in the crucible will decompose and disappear over time, producing purple smoke. This is exactly the spell wave described in the previous chapter. Each point of element corresponds to one point of spell wave value. Sneaking right-click then empties the elements in the crucible at once, and the effect is the same as digging up the crucible directly or decomposing it naturally, both of which will generate spell waves. Therefore, you need to dispose of crucibles with excess elements with Quartz Shards in a timely manner.",
       "frame:8": "GATE",
       "globalshare:1": 0,
       "icon:10": {
@@ -19,7 +19,7 @@
       "ismain:1": 1,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "炼金术2",
+      "name:8": "Alchemy 2",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,

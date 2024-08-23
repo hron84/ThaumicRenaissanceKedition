@@ -5,7 +5,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "得到翠心护符\n你可以将其升级为翠心指环再生和翠心指环续航两种升级\n续航会不断为你补充饱食度（饱和度不会补充），让你不用再在背包里储备食物；\n再生指环会中等速度的为你回血，使你能应对更多的怪物！\n三种翠心指环都能消耗充能来解除负面效果。",
+      "desc:8": "Get the Emerald Heart Amulet\\n you can upgrade it to the Emerald Heart Rings Regeneration and Emerald Heart Rings Renewal upgrades\\n Renewal will constantly replenish your satiety level (saturation will not replenish it), so you don't have to stockpile food in your backpack; \\n Regeneration will regenerate you at a medium rate, allowing you to deal with a larger number of monsters! \\n All three types of Cuixin Rings can consume recharge to remove negative effects.",
       "frame:8": "ROUNDED_SQUARE",
       "globalshare:1": 0,
       "icon:10": {
@@ -18,7 +18,7 @@
       "ismain:1": 0,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "不再饥饿",
+      "name:8": "No more hunger.",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,

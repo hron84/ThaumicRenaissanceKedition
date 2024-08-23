@@ -5,7 +5,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "元始精灵是一只很强大的精灵，但是再强大，它也就是一只血厚的精灵，使用远程武器可以轻松解决，它被击败后会掉落奖励袋和一颗元始尘埃，这真的很值得一打，仅消耗了一个奥术强化罐子就换来了1/8甚至1/4元始珍珠。",
+      "desc:8": "The genesis elf is a very powerful elf, but as powerful as it is, it's just a thick-blooded elf that can be easily dealt with using long-range weapons, and it drops a bonus pouch and a genesis dust when it's defeated, which is really worth the fight, and only consumes an Arcane Enhancement Jar in exchange for a 1/8 or even a 1/4 genesis pearl.",
       "frame:8": "ROUNDED_SQUARE",
       "globalshare:1": 0,
       "icon:10": {
@@ -22,7 +22,7 @@
       "ismain:1": 0,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "击败元始精灵",
+      "name:8": "Defeat the genie.",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,

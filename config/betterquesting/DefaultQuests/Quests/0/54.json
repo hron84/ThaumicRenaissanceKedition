@@ -5,7 +5,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "收集你所需的资源...\n你只需要找到2~3个金矿石，一些铁矿石和10搓左右红石就可以完成你的原版矿物准备工作...当然，你也需要收集自然生成的6颜色水晶碎片，这个整合包添加了深渊国度，注意怪物！",
+      "desc:8": "Gather the resources you need... \n You only need to find 2~3 gold ores, some iron ores and 10 rubs or so of red stone to complete your original mineral preparation... Of course, you'll also need to collect the naturally occurring 6-color crystal shards, which this integration pack adds to the Abyssal Kingdom, so watch out for monsters!",
       "frame:8": "ROUNDED_SQUARE",
       "globalshare:1": 0,
       "icon:10": {
@@ -18,7 +18,7 @@
       "ismain:1": 0,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "基础资源收集",
+      "name:8": "Basic resource collection",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,

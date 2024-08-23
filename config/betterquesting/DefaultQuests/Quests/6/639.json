@@ -5,7 +5,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "维度撕裂器是一个§5神秘奇境§r模组的小道具，可以用来定点产生裂隙，具体操作如下：\n\n两个维度撕裂器相向摆放，同时间距9格，摆放正确时会出现紫色粒子对流。\n\n之后可以向其通入污染源质，两个撕裂器同时消耗50点Vitium源质会进行一次撕裂活动，用以打开咒波裂隙或扩大咒波裂隙，输入红石信号可以暂停这一过程。\n\n接受红石信号时，撕裂器会停止工作但继续吸收源质，吸收更多源质后解除红石信号会产生更强的撕裂活动。\n\n§c注意：裂缝过大可能会把维度撕裂器吞掉！",
+      "desc:8": "The Dimension Ripper is a gadget for the §5 Mystic Wonderland§r module, it can be used to generate a rift at a fixed point, the specific operation is as follows: \n\nTwo Dimension Rippers are placed facing each other, and at the same time spaced 9 squares apart, when placed correctly, there will be a convection of purple particles. \n\nAfter that, you can pass contaminated source material into it, both rippers will consume 50 points of Vitium source material at the same time to perform a ripping activity, which will be used to open the spellwave fissure or expand the spellwave fissure, and inputting a redstone signal can pause the process. \n\n§ When receiving a Redstone signal, the Rippers will stop working but continue to absorb Vitium, absorbing more Vitium and then deactivating the Redstone signal will result in a stronger Ripping Activity. \n\n§cNote: A rift that is too large may swallow the dimensional ripper!",
       "frame:8": "ROUNDED_SQUARE",
       "globalshare:1": 0,
       "icon:10": {
@@ -18,7 +18,7 @@
       "ismain:1": 0,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "定点产生裂隙 -- 维度撕裂器",
+      "name:8": "Fixed-point rift generation -- Dimension Ripper",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,

@@ -5,7 +5,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "想要制作冶炼厂，你需要准备一大吨的水晶碎片。\n这个任务会指引你，什么东西过呢更适合拿来溶解成你所需要的要素。\n交易：投掷器\n虚空：也是投掷器（最好的是碗，但是投掷器里有这种要素）\n能量：还是投掷器（最好的是煤炭和红石，但是投掷器里有这个要素）\n光：火把\n移动：船\n冰：雪球\n水晶：玻璃或琥珀\n金属：朱砂（矿）\n生命：各种树苗\n死亡：朱砂（矿）\n这里只是举了一些最简单的例子，实际上，你可以根据你所在的环境调整你要溶解哪些物品，在JEI搜索对应的要素名称，再点击，即可查看到含有此种要素的所有物品，再根据你的需要来溶解。\n要注意的是，2点要素才可析出1个对应的水晶碎片，1点要素并不能用石英碎片做任何处理！\n关于冶炼厂：解锁冶炼厂章节，即可获得源质冶炼厂、源质罐子的配方。将源质冶炼厂放在地上，上方放置奥术蒸馏器。\n奥术蒸馏器可以“导出”源质冶炼厂中的源质，每个奥术蒸馏器最多存储一种源质，源质容量上限为128点。\n奥术蒸馏器可以叠放在其他的奥术蒸馏器上方，作为存储之用，但是不会加快蒸馏速率。\n警告：冶炼厂在工作时，会有一部分源质不可避免地成为咒波逸散出去，所以一定要把冶炼厂搬离你的基地！",
+      "desc:8": "To make a smelter, you need to prepare a ton of crystal shards. \\nThis quest will guide you as to what over it is more suitable to be used to dissolve into the elements you need. \\nTrading: throwers\\nVoid: also throwers (best is bowls, but there are elements of this in throwers)\\nEnergy: still throwers (best is coal and redstone, but there are elements of this in throwers)\\nLight: torches\\nMovement: ships\\nIce: snow globes\\nCrystals: glass or amber\\nMetals: cinnabar (mines)\\nLife: saplings of various kinds\\nDeath: cinnabar (mines)\\n Here are just some of the simplest examples, in fact, you can adjust which items you want to dissolve according to the environment you are in, search for the name of the corresponding element in the JEI, and then click on it, you can see all the items containing such element, and then dissolve them according to your needs. \\nTo note, 2-point elements can only dissolve 1 corresponding crystal shard, and 1-point elements do not do anything with quartz shards! \\nAbout the Smelter: unlock the Smelter chapter to get the recipe for the Source Matter Smelter, Source Matter Jar. Place the Source Matter Smelter on the ground and the Arcane Distiller above it. \\The Arcane Distiller can \"export\" the Source Matter from the Source Matter Smelter. Each Arcane Distiller can store up to one Source Matter, with a maximum Source Matter capacity of 128 points. \\Arcane stills can be stacked on top of other arcane stills for storage purposes, but will not speed up the distillation rate. \\n WARNING: A portion of the source mass will inevitably escape as a spell wave while the smelter is working, so be sure to move the smelter away from your base!",
       "frame:8": "GATE",
       "globalshare:1": 0,
       "icon:10": {
@@ -18,7 +18,7 @@
       "ismain:1": 1,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "做冶炼厂前的准备",
+      "name:8": "Preparation before making a smelter",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,

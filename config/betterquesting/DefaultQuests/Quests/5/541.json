@@ -5,7 +5,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "使用这把铲子挖掘腐化泥土，腐化草丛，腐化岩石等被污染的方块时速度相当于挖掘普通泥土速度，并且在破坏时有几率得到1个腐化碎片。\n\n此外，使用这把锹右键可以清除玩家面前一片的咒波黏浆。很可惜，这把铲对气态咒波无效...",
+      "desc:8": "Use this spade to dig contaminated squares such as Corrupted Dirt, Corrupted Grass, and Corrupted Rock at a speed equal to the speed of digging normal dirt, and you have a chance to get 1 Corrupted Shard when destroying it. \n\n In addition, right clicking with this spade removes a patch of spellwave goo in front of the player. Unfortunately, this spade is ineffective against gaseous spellwaves...",
       "frame:8": "ROUNDED_SQUARE",
       "globalshare:1": 0,
       "icon:10": {
@@ -18,7 +18,7 @@
       "ismain:1": 0,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "清洁工的好帮手 - 净化锹",
+      "name:8": "The cleaner's helper - Purifying Spade",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,

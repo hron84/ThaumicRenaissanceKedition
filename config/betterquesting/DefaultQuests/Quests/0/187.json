@@ -6,7 +6,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "解锁奥术注魔学之后，你就能进行自动化炼金了。\n自动化炼金有两个机器，\n分别可以自动运出和汲取所需的要素在16格范围内。",
+      "desc:8": "After unlocking Arcane Infusion Science, you will be able to perform Automated Alchemy. \\n Automated Alchemy has two machines, \\n each of which can automatically transport and draw the required elements within 16 squares.",
       "frame:8": "ROUNDED_SQUARE",
       "globalshare:1": 0,
       "icon:10": {
@@ -19,7 +19,7 @@
       "ismain:1": 0,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "自动化炼金",
+      "name:8": "automated refining",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,

@@ -5,7 +5,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "灵宝工具和钻石工具没有什么区别，只是它们不会损坏罢了...",
+      "desc:8": "There's no difference between a Spirit Treasure tool and a diamond tool, except that they don't break...",
       "frame:8": "ROUNDED_SQUARE",
       "globalshare:1": 0,
       "icon:10": {
@@ -18,7 +18,7 @@
       "ismain:1": 0,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "灵宝工具",
+      "name:8": "Lingbao Tools",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,

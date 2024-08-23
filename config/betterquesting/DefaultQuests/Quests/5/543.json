@@ -5,7 +5,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "制作傀儡工坊多方块结构，以便让你制作出傀儡来帮你完成更多任务，比如自动种植，自动畜牧，也能帮助你对抗怪物。\n\n需要解锁傀儡学相应的研究来解锁这个多方块结构的搭建仪式。\n\n§c§l在这个整合包中，如果傀儡持有法师护手且傀儡的主人解锁了某个研究，那么，傀儡就可以启动注魔祭坛！",
+      "desc:8": "Craft the Golem Workshop Multi-Cube Structure in order to allow you to craft golems to help you with more tasks such as automated planting, automated animal husbandry, and also to help you fight monsters. \n\\nThe corresponding study in Golemology needs to be unlocked to unlock the ritual of building this multi-cube structure. \n\n§c§lIn this integration pack, if the golem holds a mage gauntlet and the owner of the golem has unlocked a certain research, then the golem can activate the magic injection altar!",
       "frame:8": "ROUNDED_SQUARE",
       "globalshare:1": 0,
       "icon:10": {
@@ -18,7 +18,7 @@
       "ismain:1": 0,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "招募援兵",
+      "name:8": "recruit reinforcements",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,

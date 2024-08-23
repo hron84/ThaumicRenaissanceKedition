@@ -5,7 +5,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "无尽之瓮可以为周围的需水机械加水，例如坩埚和花药台（植物魔法模组的一个需水装置），做一个无尽之瓮放在坩埚旁边，防止坩埚水分不足影响制作！\n想要制作此物品，需要解锁无尽之瓮的研究。",
+      "desc:8": "The Urn of Endlessness can add water to surrounding water-demanding machinery, such as the Crucible and the Flower Herb Table (a water-demanding device from the Plant Magic module). Make an Urn of Endlessness to place next to the Crucible to prevent the Crucible's lack of water from interfering with crafting! \n order to craft this item, you need to unlock the research of the Urn of Endlessness.",
       "frame:8": "ROUNDED_SQUARE",
       "globalshare:1": 0,
       "icon:10": {

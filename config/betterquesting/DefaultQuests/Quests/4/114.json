@@ -5,7 +5,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "腐化消退之后，腐化原木，喷泉会变成咒波黏浆，进而变成神秘史莱姆。\n腐化泥土会重新变为泥土（我觉得还是次级腐化粉好玩一点...）。\n腐化岩石会变成透水石，这是一个矿物方块，挖掘它们可以得到水晶碎片，原矿簇，宝石和海晶沙砾等产物，也有几率产生一枚100点要素的腐化碎片，可以用来制作畸变镐。",
+      "desc:8": "After the decay subsides, decay logs, fountains will turn into spellwave goo, which in turn turns into Mystic Slime. \n Decayed Slime will turn back into Slime (I think it's still a bit more fun to have secondary decay powder...) . \n Corrupted Rocks turn into Permeable Rocks, which are mineral cubes that can be mined to yield products such as Crystal Shards, Raw Ore Clusters, Gems, and Seacrystal Grit, as well as a chance to spawn a single 100 elemental point Corrupted Shard, which can be used to craft an Aberration Pickaxe.",
       "frame:8": "ROUNDED_SQUARE",
       "globalshare:1": 0,
       "icon:10": {
@@ -18,7 +18,7 @@
       "ismain:1": 0,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "腐化消退之后",
+      "name:8": "After the decay has subsided",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,

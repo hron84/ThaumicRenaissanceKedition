@@ -5,7 +5,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "制作结晶室，让原矿自动转化为矿簇！\n这个东西需要炼金术石来工作，准备一些炼金术石，这东西不便宜，转化前需谨慎...",
+      "desc:8": "Make a crystallization chamber to automatically convert raw ore into clusters! \n this thing needs alchemy stones to work, prepare some alchemy stones, it's not cheap, be careful before converting...",
       "frame:8": "ROUNDED_SQUARE",
       "globalshare:1": 0,
       "icon:10": {
@@ -18,7 +18,7 @@
       "ismain:1": 0,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "矿簇制造器",
+      "name:8": "Ore Cluster Maker",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,

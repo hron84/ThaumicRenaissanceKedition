@@ -5,7 +5,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "进入维度裂隙，你会抵达虚域，虚域很暗，记得准备几瓶夜视药水和火把。\n以及：§e§c§b§c§9§8§7§5§1§0§2§5§7§9§b§k小心不要掉到虚域的虚空中去。",
+      "desc:8": "Entering the Dimensional Rift, you'll arrive at the Void Realm, which is very dark, so remember to prepare a couple of night vision potions and torches. \\nAnd: §e§c§b§c§9§8§7§5§1§0§2§5§7§9§b§kBe careful not to fall into the void of the Void Domain.",
       "frame:8": "GATE",
       "globalshare:1": 0,
       "icon:10": {
@@ -18,7 +18,7 @@
       "ismain:1": 1,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "探寻“外域”",
+      "name:8": "Exploring the \"Outlands\"",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,

@@ -5,7 +5,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "元动能量很难收集，但是大多数情况下，一些设备只要很少的一点元动能量就能运行很长时间，但奥术群系转换仪不是，它需要消耗巨量的元动能量和其他能量，所以使用裂隙慢慢抽取总不是办法，我们需要储存元动能量。\n\n搭建元动矩阵并不费力，只要按书上的说明去搭建就好，但是接下来的步骤比较繁琐。\n\n首先，需要将元动能量单元右键点击装载在矩阵上下方基座的四个面上，因此最多能安装8个。即使只有一个单元，矩阵也会被启动。单元数量增加会让元动矩阵缓存更多的元动能量，并且加快存入和提取的速度。要去除元动能量单元，只需空手右击即可。但是这样做，超出的部分能量就会消失，所以要注意不要浪费掉。\n\n矩阵要维持稳定，当充能元动能量被存储在结构中，结构就开始逐渐失去稳定性。随着存储的元动能量越来越多，稳定性的损失就越来越大。可以通过对称摆放注魔稳定性方块，元动矩阵的检测范围与注魔祭坛相比较更小，只有 5 x 5就够了,不过与注魔祭坛的稳定度计算方式相同。一旦元动矩阵变得不稳定，就可能会释放一些淡紫色的闪电电弧，或是把元动能量单元弹出基座，或是其他的不利影响。可以通过佩戴揭示之护目镜观测中心的矩阵方块来了解矩阵的稳定性增益和损失。\n\n元动矩阵有输入槽与输出槽各一个。使用元动谐振器绑定时，需要将其指向中间的矩阵方块绑定。矩阵符文的颜色也可以预示着矩阵内能量的多少：红色代表没有能量，黄色代表半满，绿色就代表已经满了。另外可以将红石比较器放置在元动矩阵的任意部分旁边来输出一个代表内部能量存储量的红石信号。",
+      "desc:8": "Meta-dynamic energy is hard to collect, but most of the time, some devices can run for a long time with a very little bit of meta-dynamic energy, but not the Arcane Cluster Converter, it needs to consume huge amount of meta-dynamic energy and other energies, so using a rift to slowly extract it is always not a solution, we need to store meta-dynamic energy. \n\nBuilding a metamotion matrix is not laborious, just follow the instructions in the book, but the next steps are more tedious. \n\nFirst, the meta-dynamic energy units need to be right-clicked and loaded on the four sides of the base below the top of the matrix, so a maximum of eight can be installed. The matrix will be activated even if there is only one unit. An increased number of units will allow the MetaDynamic Matrix to cache more MetaDynamic Energy and speed up deposits and withdrawals. To remove a meta-dynamic energy unit, simply right-click empty-handed. However, by doing so, the excess energy will disappear, so be careful not to waste it. The \n\n matrix has to be maintained stable, and as the energized meta-dynamic energy is stored in the structure, the structure begins to gradually destabilize. As more and more meta-dynamic energy is stored, the loss of stability becomes greater and greater. The meta-motion matrix can be detected by symmetrically placing the Stability Cubes, which are smaller than the Altar of Magic, only 5 x 5 will suffice, but the stability is calculated in the same way as for the Altar of Magic. Once the Meta-Dynamic Matrix becomes unstable, it may release some lavender lightning arcs, or pop Meta-Dynamic Energy Units out of their pedestals, or have other detrimental effects. You can learn about the stability gains and losses of the matrix by observing the matrix square in the center while wearing the Goggles of Revelation. The \n\n metamotion matrix has one input slot and one output slot. When using the Metamotion Resonator Binding, you need to point it toward the center matrix square binding. The color of the matrix runes can also predict how much energy is in the matrix: red means no energy, yellow means half full, and green would mean it's full. Alternatively a redstone comparator can be placed next to any part of the metamotion matrix to output a redstone signal representing the amount of energy stored inside.",
       "frame:8": "ROUNDED_SQUARE",
       "globalshare:1": 0,
       "icon:10": {
@@ -18,7 +18,7 @@
       "ismain:1": 0,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "存储元动能量 -- 元动矩阵",
+      "name:8": "Storing meta-dynamic energy -- meta-dynamic matrix",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,

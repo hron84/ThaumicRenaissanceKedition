@@ -5,7 +5,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "冶炼厂可以插入一下几种升级\n1.附属黏浆泵：可以使可放置在冶炼厂的三个侧面，增加冶炼厂向奥术蒸馏器的输出接口，使源质冶炼更快、更高效。\n\n2.辅助排放口：放置在冶炼厂的三个侧面，将可能产生的咒波无害化，随着排放口的数量增多，增加的效果不断衰减。\n第一个排放口有33.3%的概率过滤掉产生的咒波。\n第二个排放口有22.2%的概率。\n第三个排放口有14.8%的概率。\n总共是70.3%。\n\n3.奥术风箱：将奥术风箱安装在安置在源质冶炼厂任意一侧，可以加快源质黏浆的分解速度。",
+      "desc:8": "The smelter can be inserted with the following upgrades \\n1.Auxiliary slime pumps: can make can be placed on the three sides of the smelter, increasing the output interface from the smelter to the arcane distillers, making the source mass smelting faster and more efficient. \\n\\2.Auxiliary Vents: placed on three sides of the smelter to harmlessly vaporize the spell waves that may be generated, the increased effect constantly decaying as the number of vents increases. \\nThe first vent has a 33.3% probability of filtering out the spell waves generated. \\nThe second vent has a 22.2% probability. \\nThe third vent has a 14.8% probability. \\nThe total is 70.3%. \\n\\3. Arcane Wind Box: Installing an Arcane Wind Box placed on either side of a Source Matter Smelter will speed up the decomposition of the Source Matter Slime.",
       "frame:8": "ROUNDED_SQUARE",
       "globalshare:1": 0,
       "icon:10": {
@@ -18,7 +18,7 @@
       "ismain:1": 0,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "冶炼厂的升级",
+      "name:8": "Upgrading of smelters",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,

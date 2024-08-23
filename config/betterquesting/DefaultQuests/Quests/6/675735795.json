@@ -5,7 +5,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "唯一一个100%效率的冶炼厂，有着离谱的速度和巨额的储量。\n搭建多方块结构，再往上撒一把世界盐，就能成型，工作需要消耗灵气，以及需要向炉心传输元动能量。\n\n\n\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d炼金隔栅\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\n对比普通的滤物隔栅，炼金隔栅有梗多缓存空间，能将物品自动输入至多方块冶炼厂中。",
+      "desc:8": "The only 100% efficient smelter with outrageous speed and huge reserves. \nBuilding a multi-cube structure and sprinkling a handful of world salt on top of it to shape it, the work requires the consumption of aura as well as the need to transfer meta-dynamic energy to the center of the furnace. \n\\n\n===================== Alchemical Spacer =================\nCompared to a normal filtering spacer, the Alchemical Spacer has a terrier with more cache space, and is able to automatically feed items into the polycube smelter.",
       "frame:8": "ROUNDED_SQUARE",
       "globalshare:1": 0,
       "icon:10": {
@@ -18,7 +18,7 @@
       "ismain:1": 0,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "荒古冶炼厂",
+      "name:8": "Dystopia Smelter",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,

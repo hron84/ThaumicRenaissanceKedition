@@ -5,7 +5,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "源质之镜是一个可以跨纬度运输源质的设备。\n\n使用方法与魔镜类似，具体方法可见魔镜章节。\n\n§c警告：源质之境每传输64源质就会制造1点咒波。",
+      "desc:8": "The Mirror of Source Matter is a device that can transport source matter across latitudes. \n\nUse is similar to the Magic Mirror, as described in the Magic Mirror chapter. \n\n§cWarning: the Realm of Source Matter creates 1 point of Spellwave for every 64 Source Matter it transports.",
       "frame:8": "ROUNDED_SQUARE",
       "globalshare:1": 0,
       "icon:10": {
@@ -18,7 +18,7 @@
       "ismain:1": 0,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "远程运输 - 源质",
+      "name:8": "Remote transportation - source material",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,

@@ -5,7 +5,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "想要解锁炼化学研究，你需要先完成金属炼成研究中的第二节：制作炼金黄铜锭，然后进入基础学界面（不是神秘基础学），点击研究发现：炼化学，然后扫描一个带有机械要素的物品（例如按钮），即可解锁炼化学篇章，以及解锁一个重要物品：揭示之护目镜的配方。\n\n虽然对于一些熟练的神秘使来说，这个东西在前期可有可无，不过对于大多数神秘使，尤其是刚入门的那些，建议现在就凑齐材料做一个，它可以显示坩埚/罐子/蒸馏器等存有源质的容器的内含要素数量。也可以观察注魔时所需的要素以及注魔的风险度，可以说时很方便了。\n\n不同于TC4，你可以把它戴到饰品栏中，且不会损失5%灵气减免的功效。",
+      "desc:8": "To unlock the Alchemy research, you'll need to complete Section 2: Crafting Alchemical Brass Ingots in the Metals Alchemy research, then go to the Fundamentals realm (not Mystic Fundamentals), click on Research Discoveries: Alchemy, and then scan for an item with a mechanical element to it (such as a button), which unlocks the Alchemy chapter as well as unlocking the recipe for an important item: the Goggles of Revealing. \\n\\nWhile for some skilled Mystics, this item is optional in the early stages, for most Mystics, especially those just starting out, it is recommended to get together the materials to make one now, which shows the number of elements contained in a crucible/jar/steamer and other containers that hold source material. You can also observe the amount of elements needed for enchanting and the risk level of enchanting, so it's very convenient. \\Unlike TC4, you can put it on the jewelry bar without losing the 5% aura reduction.",
       "frame:8": "GATE",
       "globalshare:1": 0,
       "icon:10": {
@@ -18,7 +18,7 @@
       "ismain:1": 1,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "炼化学研究...hmmmmmmm",
+      "name:8": "Research in Refining Chemistry... .hmmmmmmm",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,

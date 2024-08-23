@@ -5,7 +5,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "有些时候，主世界无法满足你的需求，这时你就要去地狱了，地狱有很多你会需要用到的材料，比如岩浆块，熔岩，萤石，石英等...",
+      "desc:8": "There are times when the main world can't fulfill your needs, and that's when you'll have to go to hell, which has a lot of materials that you'll need to use, such as magma blocks, lava, fluorite, quartz, and other...",
       "frame:8": "ROUNDED_SQUARE",
       "globalshare:1": 0,
       "icon:10": {
@@ -18,7 +18,7 @@
       "ismain:1": 0,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "地狱之旅",
+      "name:8": "Journey to Hell",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,

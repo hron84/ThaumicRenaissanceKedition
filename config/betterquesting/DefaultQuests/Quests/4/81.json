@@ -5,7 +5,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "灵气场中的咒波使用常规方法难以清除，只能等到咒波蔓延到其他区块或被裂隙吸收，当然这都是被动清理咒波。\n\n在前期，你可以使用咒波凝结器来清除咒波，在凝结器上安装隔栅，并在凝结其四周通入非腐化源质，在凝结器下放置一个用于盛装污染源质的罐子，咒波凝结器就会正常工作了。\n\n使用越多的凝结隔栅，原址的使用效率就越高，意味着一点非腐化源质能清理更多的咒波。\n\n但是，凝结隔栅在吸收咒波时有几率堵塞（变成紫色），需要用源质滤管右键它来修好它，这个操作需要消耗源质滤管，所以要增加源质滤管的储备。\n\n警告：不要向咒波凝结器内通入污染源质，不然你的凝结器连接的隔栅会立刻变为堵塞状态。",
+      "desc:8": "Spellwaves in the aura field are difficult to remove using conventional methods, and you have to wait until the spellwave spreads to other zones or is absorbed by the rift, which of course are passive spellwave cleanups. \n\nIn the early stages, you can use the spell wave condenser to clear the spell waves, install the partition grill on the condenser and pass non-corrosive source material around the condenser, place a jar for holding contaminated source material under the condenser, and the spell wave condenser will work properly. \n\nThe more Condensation Spacers you use, the more efficiently the original site is used, meaning that a bit of non-corrupted source matter cleans up more spellwaves. \n\nHowever, the Condensation Barrier has a chance of clogging (turning purple) when absorbing spellwaves, and you need to right-click on it with a Source Matter Filter Tube to fix it; this operation consumes Source Matter Filter Tubes, so increase your Source Matter Filter Tube reserves. \n\nWarning: do not pass contaminated source mass into the spellwave condenser, or your condenser-connected spacer grill will instantly change to a clogged state.",
       "frame:8": "ROUNDED_SQUARE",
       "globalshare:1": 0,
       "icon:10": {
@@ -18,7 +18,7 @@
       "ismain:1": 0,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "咒波清理",
+      "name:8": "Spellwave Cleanup",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,

@@ -6,7 +6,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "神秘生物学之心是制作傀儡时的高级头部部件。\n装有该部件的傀儡会拥有智慧属性，具有该属性的傀儡可以完成一些高级的任务，例如收获作物，屠宰动物等。\n但同时也会得到“脆弱”属性，降低傀儡的护甲值。\n想要抵消这个属性，需要解锁“战争机器”研究，你便可以在傀儡工坊制作“装甲智慧头部”。\n\n这些高级印记只有拥有“智慧”属性的傀儡才可完成该印记的任务。\n\n各种高级印记：对比低级的变种，高级印记拥有更多的可配置项和黑白名单限制，仅限拥有智慧属性的傀儡使用。\n\n收获印记：该印记会搜寻范围内的成熟作物，然后指示傀儡前去收割，当周围同时存在生效的“聚集”印记时，会让捡起物品的傀儡补种作物。\n\n屠宰印记：当范围内的某种动物数量超过2只时，该印记会请求附近符合条件的傀儡击杀多余的成年动物。\n\n砍伐印记：该印记会请求附近拥有【挖掘】和【智慧】属性的傀儡来挖掉范围里的原木。该印记自带“奔流”效果，因此即使整棵树都在范围之外，只要树根在范围内，傀儡一样可以砍下整棵树。\n§c注：傀儡可能会卡在原木中窒息，使用该印记请务必小心！§r",
+      "desc:8": "The Heart of Mystical Biology is an advanced head part when crafting a golem. \\A golem equipped with this part will have the \"Intelligence\" attribute, which allows the golem to perform advanced tasks such as harvesting crops and slaughtering animals. \\nBut at the same time, you will also get the \"Fragile\" attribute, which reduces the armor value of the golem. \\To counteract this, you need to unlock the \"War Machine\" research, which will allow you to craft \"Armored Smart Heads\" in the Golem Workshop. \\You can make the \"Armored Wisdom Head\" at the Puppet Workshop. Only puppets with the \"Wisdom\" attribute can complete the task of this mark. \\n\\nVarious high-level seals: Compared to the lower-level variants, the high-level seals have more configurable items and black/white list restrictions, and can only be used by puppets with the \"intelligence\" attribute. \\n\\nHarvest Mark: This mark searches for ripe crops within its range and instructs the golem to harvest them, allowing the golem that picks up the item to replant the crop when there are both \"gathering\" marks in effect. \\Slaughter Seal: When there are more than 2 of a certain animal in range, this seal will request a nearby eligible golem to kill the excess adult animals. \\n\\n Slash Mark: This mark requests nearby puppets with the [Dig] and [Wisdom] attributes to dig up logs in the range. This mark has a \"running\" effect, so even if the entire tree is out of range, the golem can cut down the entire tree as long as the roots are in range. \\n§cNote: The Golem may get stuck in a log and suffocate, so be careful when using this mark! §r",
       "frame:8": "ROUNDED_SQUARE",
       "globalshare:1": 0,
       "icon:10": {
@@ -19,7 +19,7 @@
       "ismain:1": 0,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "高级印记",
+      "name:8": "Premium Seal",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,

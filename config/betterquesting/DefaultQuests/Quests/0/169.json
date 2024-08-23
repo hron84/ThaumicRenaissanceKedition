@@ -5,7 +5,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "奥术工作台充能器，它可以放置于奥术工作台和核心镶饰台上方。\n放置后奥术工作台灵气使用范围从当前区块扩展至周边共计9个区块，消耗的灵气也会平均从9个区块抽取。",
+      "desc:8": "Arcane Workbench Charger, which can be placed above the Arcane Workbench and Core Inlay Table. \n placement the Arcane Workbench aura use expands from the current block to a total of 9 surrounding blocks, and the consumed aura is drawn equally from all 9 blocks.",
       "frame:8": "ROUNDED_SQUARE",
       "globalshare:1": 0,
       "icon:10": {
@@ -18,7 +18,7 @@
       "ismain:1": 0,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "增容",
+      "name:8": "increase capacity",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,

@@ -6,7 +6,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "求知头带可以将经验球转换为知识，只不过效率十分感人，不建议使用...\n\n它还有一个升级版，不过造价昂贵，总之就是不建议使用...",
+      "desc:8": "The Knowledge Seeker Headband can convert experience orbs into knowledge, only the efficiency is very touchy and not recommended... \\n\\n It also has an upgraded version, but it's expensive to build, in short, it's just not recommended...",
       "frame:8": "ROUNDED_SQUARE",
       "globalshare:1": 0,
       "icon:10": {
@@ -19,7 +19,7 @@
       "ismain:1": 0,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "经验越多，研究越多",
+      "name:8": "The more experience, the more research",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,

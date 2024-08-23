@@ -5,7 +5,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "在完成需要消耗血腥仪式的研究后，你需要“窥探虚空之物”，所需要的物品是裂隙被悖论物质炸毁（也有1%的概率自己坍缩）后，所掉落的虚空种子。\n扫描它，开启邪术揭谛。",
+      "desc:8": "After completing the research that requires the Blood Ritual, you will need to \"Peek into the Void\", the item required is the Void Seed that was dropped when the Rift was blown up by the Paradox Matter (and has a 1% chance of collapsing on its own). \\Scan it to unlock the Evil Reveal.",
       "frame:8": "GATE",
       "globalshare:1": 0,
       "icon:10": {
@@ -18,7 +18,7 @@
       "ismain:1": 1,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "虚空之物",
+      "name:8": "void",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,

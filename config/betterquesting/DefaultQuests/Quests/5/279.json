@@ -5,7 +5,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoclaim:1": 0,
-      "desc:8": "血腥传送门会随机刷出在玩家周围，你可能会在探险中遇到他们...\n一旦血腥传送门开启，里面的血腥教徒和血腥骑士就会蜂拥而出，小心应对他们并扫描他们，再之后，你就能击杀他们了，击败他们，你会有几率得到血腥宝典，不要右键使用，用来解锁邪术学的第一步研究！\n\n提示：血腥传送门常常出现在沙漠地区！",
+      "desc:8": "Bloody portals will randomly swipe out around the player, and you may encounter them in your quest... \nOnce the Bloody Portal opens, the Blood Cultists and Blood Knights inside will swarm out, deal with them carefully and scan for them, then after that, you'll be able to kill them, defeating them will give you a chance to get the Bloody Treasure Tome, don't right-click to use it and use it to unlock the first step of the Evil Artistry research! \n\n Tip: Bloody portals are often found in desert areas!",
       "frame:8": "GATE",
       "globalshare:1": 0,
       "icon:10": {
@@ -18,7 +18,7 @@
       "ismain:1": 1,
       "issilent:1": 0,
       "lockedprogress:1": 0,
-      "name:8": "险恶的教诲",
+      "name:8": "Sinister Teachings",
       "questlogic:8": "AND",
       "repeat_relative:1": 1,
       "repeattime:3": -1,
