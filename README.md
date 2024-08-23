@@ -17,5 +17,19 @@ these items in English fluently)
 This also my first modpack, if there are bugs or issues, please also point out, 
 I will be very grateful for this.
 
+Known bugs and issues
+---------------------
+
+* There are none yet :-)
+
+Please if you find issues in this modpack, report them on 
+[GitHub Issues](https://github.com/KELETU66666/ThaumicRenaissanceKedition/issues)
+and specify the version of the modpack you are playing with.
+It would greatly help to track down issues.
+
+Links
+-----
+
+GitHub https://github.com/KELETU66666/ThaumicRenaissanceKedition
 CurseForge: https://www.curseforge.com/minecraft/modpacks/thaumic-renaissance-kedition
 Discord: https://discord.gg/Cta9EHTpjR
